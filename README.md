@@ -11,6 +11,11 @@ Track your spending like a pro with this simple and powerful Flutter app!
 - Switch between light and dark themes for your preferred style.
 - Visualize your spending trends with insightful charts.
 
+
+https://github.com/awwais/expense_tracker/assets/101943094/4e054355-ae61-47fe-86c8-02c10941d8d0
+
+
+
 ## Get Started in a Flash:
 
 1. Clone the repo: [https://github.com/awwais/expense_tracker](https://github.com/awwais/expense_tracker)
