@@ -18,7 +18,7 @@ https://github.com/awwais/expense_tracker/assets/101943094/4e054355-ae61-47fe-86
 
 ## Get Started in a Flash:
 
-1. Clone the repo: [https://github.com/awwais/expense_tracker](https://github.com/awwais/expense_tracker)
+1. Clone the repo: [https://github.com/awwais/PennyWise-Track-Every-Dime](https://github.com/awwais/PennyWise-Track-Every-Dime)
 2. Open the project in your IDE: VS Code with Flutter plugin recommended.
 3. Run `flutter pub get`: Download dependencies.
 4. Run `flutter run`: Launch the app on your device or emulator.
