@@ -16,6 +16,10 @@ https://github.com/awwais/expense_tracker/assets/101943094/4e054355-ae61-47fe-86
 
 
 
+https://github.com/awwais/PennyWise-Track-Every-Dime/assets/101943094/675b4bda-6a9f-437a-8cf2-2adb531c3109
+
+
+
 ## Get Started in a Flash:
 
 1. Clone the repo: [https://github.com/awwais/PennyWise-Track-Every-Dime](https://github.com/awwais/PennyWise-Track-Every-Dime)
